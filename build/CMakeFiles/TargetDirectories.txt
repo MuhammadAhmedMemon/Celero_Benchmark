@@ -1,3 +1,0 @@
-C:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark/build/CMakeFiles/main.dir
-C:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark/build/CMakeFiles/ZERO_CHECK.dir
