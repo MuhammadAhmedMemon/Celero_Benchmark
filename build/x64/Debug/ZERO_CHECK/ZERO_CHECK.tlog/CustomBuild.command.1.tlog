@@ -1,0 +1,10 @@
+^C:\USERS\MUHAMMAD AHMED MEMON\DESKTOP\LOGICIEL\CELERO_BENCHMARK\BUILD\CMAKEFILES\DBB516A11554AD63191849D6BB54F8F5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark" "-BC:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Muhammad Ahmed Memon/Desktop/logiciel/Celero_Benchmark/build/Celero_BM.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
